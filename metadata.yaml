@@ -1,0 +1,30 @@
+_repo: Der-WehrwolfEine-Bauernchronik_22824
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Löns, Hermann
+    alias: Lons, Hermann
+    birthdate: 1866
+    deathdate: 1914
+    gutenberg_agent_id: '25563'
+    url: http://www.gutenberg.org/2009/agents/25563
+    wikipedia: http://en.wikipedia.org/wiki/Hermann_L%C3%B6ns
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2007-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22824'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- History -- Thirty Years'' War, 1618-1648 -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Germany, Northern -- Fiction'
+title: 'Der Wehrwolf: Eine Bauernchronik'
+url: http://www.gutenberg.org/ebooks/22824
