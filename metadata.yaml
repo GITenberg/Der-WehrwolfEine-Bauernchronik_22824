@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25563
     wikipedia: http://en.wikipedia.org/wiki/Hermann_L%C3%B6ns
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22824#Der-WehrwolfEine-Bauernchronik
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2007-10-02'
 gutenberg_type: Text
